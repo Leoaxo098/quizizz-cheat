@@ -22,9 +22,14 @@ fetch("https://raw.githubusercontent.com/leoaxo098/quizizz-cheat/master/dist/bun
 
 ### Load automatically using Tampermonkey
 1. Install the browser extension on **https://www.tampermonkey.net/**
-2. Create a new user script and paste the contents of [scripts/tampermonkey-alternative-method.js](scripts/quizizz-cheat.js)
+2. Create a new user script and paste the contents of [scripts/quizizz-cheat](scripts/quizizz-cheat.js)
 3. Using a [discord account](https://discord.com) to login to [cheatnetwork.eu](https://cheatnetwork.eu) ( MUST DO )
 4. The script should now be automatically loaded every time you enter a quizizz.
 
+### Load automatically using Stay for safari (Mac, Iphone ,Ipad)
+1. Download [Stay](https://apps.apple.com/us/app/stay-for-safari/id1591620171)
+2. Follow the step in the app to install it to safari
+3. Click the + in the top right corner
+4. Press link then paste this in
 As we can see on this screenshot, the answer **www.quizizz.com** has the "(correct anwser)" next to it indicating a valid answer.
 ![screenshot](/docs/screenshot_1.png)
