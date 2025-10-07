@@ -36,3 +36,11 @@ fetch("https://raw.githubusercontent.com/leoaxo098/quizizz-cheat/master/dist/bun
 
 As we can see on this screenshot, the answer **www.quizizz.com** has the "(correct anwser)" next to it indicating a valid answer.
 ![screenshot](/docs/screenshot_1.png)
+
+
+# Credits
+- [Claude](https://claude.ai)
+- [ChatGPT](https://chatgpt.com)
+- [Deepseek](https://chat.deepseek.com)
+- leoaxo098 (For reviving this project)
+-
