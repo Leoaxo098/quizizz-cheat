@@ -1,1 +1,561 @@
-var a0_0x2b5a=['203017IwhbHe','\x20div.scree','container\x20','sent','20419qpbUKM','filter','game','ript\x20creat','log','215087AFAosG','v\x20>\x20div\x20>\x20','130798QMhRKq','ioner-comp','pop','%c\x20\x0a\x20\x20\x20\x20Sc','anski#5119','transition','throw','length','retreive\x20q','$store','roomHash','$$state','error','push','\x20\x20\x20\x20\x20\x20','ting\x20type\x20','then','_data','playerId','Could\x20not\x20','t\x20>\x20div\x20>\x20','join','40135CaSIUe','prototype','t-componen','20%','!\x20\x0a\x20\x20\x20\x20htt','n:\x20','questions','function','ed\x20by\x20gbar','_id','>\x20div\x20>\x20di','1aRQNjV','label','Fail\x20detec','apply','structure','iterator','Unable\x20to\x20','value','text','is\x20already','244114IvDobX','isArray','forEach','return','body\x20>\x20div','ame\x20>\x20div.','call','div\x20>\x20div\x20','18CloWKt','retreive\x20r','roomCode','tor','of\x20questio','children','quizId','er.transit','querySelec','b.com/gbar','https://qu','-container','242025opvcso','_vm','ist\x20elemen','>\x20div','answer','trys','__vue__','1PoSfiV','data','game/','n.screen-g','style','currentId','opacity','ops','uestions\x20l','some','map','optionData','questionID','oot\x20object','next','done','\x20>\x20div.roo','slice'];var a0_0x1eca=function(_0x4755e1,_0x50e65e){_0x4755e1=_0x4755e1-0x167;var _0x2b5a11=a0_0x2b5a[_0x4755e1];return _0x2b5a11;};(function(_0x259e78,_0x584f94){var _0x39ef4e=a0_0x1eca;while(!![]){try{var _0x37534f=-parseInt(_0x39ef4e(0x186))+-parseInt(_0x39ef4e(0x19a))+-parseInt(_0x39ef4e(0x171))+-parseInt(_0x39ef4e(0x1be))*parseInt(_0x39ef4e(0x17c))+parseInt(_0x39ef4e(0x1b3))+parseInt(_0x39ef4e(0x1bc))*parseInt(_0x39ef4e(0x1a1))+parseInt(_0x39ef4e(0x18e))*parseInt(_0x39ef4e(0x1b7));if(_0x37534f===_0x584f94)break;else _0x259e78['push'](_0x259e78['shift']());}catch(_0x1f2779){_0x259e78['push'](_0x259e78['shift']());}}}(a0_0x2b5a,0x1f63e),(()=>{'use strict';var _0x236be8,_0x280a10,_0x3f2148=function(_0x2b2334){var _0x1325f8=a0_0x1eca;_0x2b2334[_0x1325f8(0x1a5)][_0x1325f8(0x1a7)]=_0x1325f8(0x174);},_0x2998b2=function(_0x8d2c96){var _0x343cbf=a0_0x1eca,_0x3bac62=function(){var _0xbf60c4=a0_0x1eca,_0x51e16c=document['querySelec'+_0xbf60c4(0x191)](_0xbf60c4(0x18a)+_0xbf60c4(0x1b1)+_0xbf60c4(0x173)+_0xbf60c4(0x16f)+'div\x20>\x20div\x20'+'>\x20div.page'+_0xbf60c4(0x199)+'.in-quiz\x20>'+_0xbf60c4(0x1b4)+_0xbf60c4(0x1a4)+_0xbf60c4(0x18b)+_0xbf60c4(0x1c3)+_0xbf60c4(0x195)+_0xbf60c4(0x1bf)+'onent\x20>\x20di'+_0xbf60c4(0x1bd)+_0xbf60c4(0x18d)+_0xbf60c4(0x17b)+'v.options-'+_0xbf60c4(0x1b5)+_0xbf60c4(0x19d));if(!_0x51e16c)throw new Error(_0xbf60c4(0x182)+_0xbf60c4(0x1c6)+_0xbf60c4(0x1a9)+_0xbf60c4(0x19c)+'t');return _0x51e16c;}(),_0x49522f=Array[_0x343cbf(0x172)][_0x343cbf(0x1b2)][_0x343cbf(0x18c)](_0x3bac62[_0x343cbf(0x193)]);if(Array['isArray'](_0x8d2c96[_0x343cbf(0x180)][_0x343cbf(0x19e)])&&_0x8d2c96[_0x343cbf(0x180)][_0x343cbf(0x19e)][_0x343cbf(0x1c5)]<0x1&&_0x8d2c96[_0x343cbf(0x180)]['options']){var _0x1b945d=_0x8d2c96['structure']['options'][_0x343cbf(0x1ab)](function(_0x2d9a38){var _0x299938=_0x343cbf;return _0x2d9a38[_0x299938(0x184)];})[_0x343cbf(0x170)]('\x20or\x20');alert(_0x1b945d);}else _0x49522f[_0x343cbf(0x1b8)](function(_0x1ee918){var _0x4ab588=_0x343cbf;return Array[_0x4ab588(0x187)](_0x8d2c96[_0x4ab588(0x180)][_0x4ab588(0x19e)])&&_0x8d2c96[_0x4ab588(0x180)][_0x4ab588(0x19e)][_0x4ab588(0x1c5)]>0x0?!_0x8d2c96[_0x4ab588(0x180)][_0x4ab588(0x19e)][_0x4ab588(0x1aa)](function(_0x206e3f){var _0x2fdc6e=_0x4ab588;return _0x1ee918[_0x2fdc6e(0x1a0)]['optionData']['actualInde'+'x']===_0x206e3f;}):'number'==typeof _0x8d2c96[_0x4ab588(0x180)][_0x4ab588(0x19e)]?_0x1ee918[_0x4ab588(0x1a0)][_0x4ab588(0x1ac)]['actualInde'+'x']!==_0x8d2c96[_0x4ab588(0x180)][_0x4ab588(0x19e)]:void console[_0x4ab588(0x167)](_0x4ab588(0x17e)+_0x4ab588(0x16a)+_0x4ab588(0x192)+_0x4ab588(0x176),_0x8d2c96);})[_0x343cbf(0x188)](_0x3f2148);},_0x3f1a33=function(){var _0x67baa2=a0_0x1eca,_0xce9bcf=document[_0x67baa2(0x196)+_0x67baa2(0x191)](_0x67baa2(0x18a));if(!_0xce9bcf)throw new Error('Could\x20not\x20'+'retreive\x20r'+_0x67baa2(0x1ae));return _0xce9bcf['__vue__'][_0x67baa2(0x1c7)]['_vm'][_0x67baa2(0x16c)][_0x67baa2(0x1c9)][_0x67baa2(0x1b9)][_0x67baa2(0x1a2)][_0x67baa2(0x1c8)];};_0x280a10=function(){var _0x5777ca,_0x49ad83;return function(_0x23e952,_0x3a5dae){var _0x4ef940=a0_0x1eca,_0x280f38,_0xd8374f,_0x195b75,_0x346c0c,_0x1c1236={'label':0x0,'sent':function(){if(0x1&_0x195b75[0x0])throw _0x195b75[0x1];return _0x195b75[0x1];},'trys':[],'ops':[]};return _0x346c0c={'next':_0x326379(0x0),'throw':_0x326379(0x1),'return':_0x326379(0x2)},_0x4ef940(0x178)==typeof Symbol&&(_0x346c0c[Symbol[_0x4ef940(0x181)]]=function(){return this;}),_0x346c0c;function _0x326379(_0x2c9528){return function(_0xe313e0){return function(_0x5214b7){var _0x58dae3=a0_0x1eca;if(_0x280f38)throw new TypeError('Generator\x20'+_0x58dae3(0x185)+'\x20executing'+'.');for(;_0x1c1236;)try{if(_0x280f38=0x1,_0xd8374f&&(_0x195b75=0x2&_0x5214b7[0x0]?_0xd8374f[_0x58dae3(0x189)]:_0x5214b7[0x0]?_0xd8374f[_0x58dae3(0x1c4)]||((_0x195b75=_0xd8374f[_0x58dae3(0x189)])&&_0x195b75[_0x58dae3(0x18c)](_0xd8374f),0x0):_0xd8374f[_0x58dae3(0x1af)])&&!(_0x195b75=_0x195b75[_0x58dae3(0x18c)](_0xd8374f,_0x5214b7[0x1]))[_0x58dae3(0x1b0)])return _0x195b75;switch(_0xd8374f=0x0,_0x195b75&&(_0x5214b7=[0x2&_0x5214b7[0x0],_0x195b75['value']]),_0x5214b7[0x0]){case 0x0:case 0x1:_0x195b75=_0x5214b7;break;case 0x4:return _0x1c1236[_0x58dae3(0x17d)]++,{'value':_0x5214b7[0x1],'done':!0x1};case 0x5:_0x1c1236[_0x58dae3(0x17d)]++,_0xd8374f=_0x5214b7[0x1],_0x5214b7=[0x0];continue;case 0x7:_0x5214b7=_0x1c1236['ops'][_0x58dae3(0x1c0)](),_0x1c1236[_0x58dae3(0x19f)][_0x58dae3(0x1c0)]();continue;default:if(!((_0x195b75=(_0x195b75=_0x1c1236['trys'])[_0x58dae3(0x1c5)]>0x0&&_0x195b75[_0x195b75[_0x58dae3(0x1c5)]-0x1])||0x6!==_0x5214b7[0x0]&&0x2!==_0x5214b7[0x0])){_0x1c1236=0x0;continue;}if(0x3===_0x5214b7[0x0]&&(!_0x195b75||_0x5214b7[0x1]>_0x195b75[0x0]&&_0x5214b7[0x1]<_0x195b75[0x3])){_0x1c1236[_0x58dae3(0x17d)]=_0x5214b7[0x1];break;}if(0x6===_0x5214b7[0x0]&&_0x1c1236[_0x58dae3(0x17d)]<_0x195b75[0x1]){_0x1c1236['label']=_0x195b75[0x1],_0x195b75=_0x5214b7;break;}if(_0x195b75&&_0x1c1236['label']<_0x195b75[0x2]){_0x1c1236[_0x58dae3(0x17d)]=_0x195b75[0x2],_0x1c1236[_0x58dae3(0x1a8)][_0x58dae3(0x168)](_0x5214b7);break;}_0x195b75[0x2]&&_0x1c1236[_0x58dae3(0x1a8)][_0x58dae3(0x1c0)](),_0x1c1236[_0x58dae3(0x19f)]['pop']();continue;}_0x5214b7=_0x3a5dae['call'](_0x23e952,_0x1c1236);}catch(_0x37d2c5){_0x5214b7=[0x6,_0x37d2c5],_0xd8374f=0x0;}finally{_0x280f38=_0x195b75=0x0;}if(0x5&_0x5214b7[0x0])throw _0x5214b7[0x1];return{'value':_0x5214b7[0x0]?_0x5214b7[0x1]:void 0x0,'done':!0x0};}([_0x2c9528,_0xe313e0]);};}}(this,function(_0x5b6577){var _0x51cf33=a0_0x1eca;switch(_0x5b6577[_0x51cf33(0x17d)]){case 0x0:return console[_0x51cf33(0x1bb)](_0x51cf33(0x1c1)+_0x51cf33(0x1ba)+_0x51cf33(0x179)+_0x51cf33(0x1c2)+_0x51cf33(0x175)+'ps://githu'+_0x51cf33(0x197)+'anski/quiz'+'izz-cheat\x0a'+_0x51cf33(0x169),'color:\x20red'+';'),[0x4,fetch(_0x51cf33(0x198)+'izizz.com/'+'_api/main/'+_0x51cf33(0x1a3)+_0x3f1a33())];case 0x1:return[0x4,_0x5b6577[_0x51cf33(0x1b6)]()['json']()];case 0x2:return _0x5777ca=_0x5b6577[_0x51cf33(0x1b6)](),_0x49ad83=void 0x0,setInterval(function(){var _0x2b1972=_0x51cf33,_0x1d6423=function(){var _0x521fa2=a0_0x1eca,_0x440300=document[_0x521fa2(0x196)+_0x521fa2(0x191)](_0x521fa2(0x18a));if(!_0x440300)throw new Error(_0x521fa2(0x16e)+_0x521fa2(0x18f)+_0x521fa2(0x1ae));var _0x218976=_0x440300[_0x521fa2(0x1a0)];return{'roomHash':_0x218976[_0x521fa2(0x1c7)][_0x521fa2(0x19b)]['_data'][_0x521fa2(0x1c9)][_0x521fa2(0x1b9)]['data'][_0x521fa2(0x1c8)],'playerId':_0x218976['$store'][_0x521fa2(0x19b)]['_data'][_0x521fa2(0x1c9)][_0x521fa2(0x1b9)]['player'][_0x521fa2(0x16d)],'quizID':_0x218976[_0x521fa2(0x1c7)]['_vm'][_0x521fa2(0x16c)][_0x521fa2(0x1c9)][_0x521fa2(0x1b9)][_0x521fa2(0x1a2)][_0x521fa2(0x194)],'roomCode':_0x218976[_0x521fa2(0x1c7)][_0x521fa2(0x19b)][_0x521fa2(0x16c)][_0x521fa2(0x1c9)]['game'][_0x521fa2(0x1a2)][_0x521fa2(0x190)],'questionID':_0x218976[_0x521fa2(0x1c7)][_0x521fa2(0x19b)]['_data'][_0x521fa2(0x1c9)]['game']['questions'][_0x521fa2(0x1a6)]};}();if(_0x1d6423[_0x2b1972(0x1ad)]!==_0x49ad83)for(var _0x1b2e6d=0x0,_0x5a01b2=_0x5777ca[_0x2b1972(0x1a2)][_0x2b1972(0x177)];_0x1b2e6d<_0x5a01b2['length'];_0x1b2e6d++){var _0x24ae0=_0x5a01b2[_0x1b2e6d];_0x1d6423[_0x2b1972(0x1ad)]===_0x24ae0[_0x2b1972(0x17a)]&&(console['log']({'q':_0x24ae0}),_0x2998b2(_0x24ae0),_0x49ad83=_0x1d6423[_0x2b1972(0x1ad)]);}},0x1f4),[0x2];}});},new((_0x236be8=void 0x0)||(_0x236be8=Promise))(function(_0x11bebd,_0x1a3dd6){var _0xdf2166=a0_0x1eca;function _0x181172(_0x2497b2){try{_0x16311f(_0x280a10['next'](_0x2497b2));}catch(_0xcb5a54){_0x1a3dd6(_0xcb5a54);}}function _0x31d480(_0x4cc1c6){var _0x21450c=a0_0x1eca;try{_0x16311f(_0x280a10[_0x21450c(0x1c4)](_0x4cc1c6));}catch(_0x162e0b){_0x1a3dd6(_0x162e0b);}}function _0x16311f(_0xd08238){var _0x1aa59c=a0_0x1eca,_0x53019c;_0xd08238[_0x1aa59c(0x1b0)]?_0x11bebd(_0xd08238[_0x1aa59c(0x183)]):(_0x53019c=_0xd08238['value'],_0x53019c instanceof _0x236be8?_0x53019c:new _0x236be8(function(_0x472fcd){_0x472fcd(_0x53019c);}))[_0x1aa59c(0x16b)](_0x181172,_0x31d480);}_0x16311f((_0x280a10=_0x280a10[_0xdf2166(0x17f)](void 0x0,[]))[_0xdf2166(0x1af)]());});})());
+(function() {
+    'use strict';
+
+    const DEBUG = true;
+    let apiResponse = null;
+    let mutationObserver = null;
+    let debounceTimer = null;
+    const MARKER_STYLE = 'color: #00ff00; font-weight: bold; font-size: 0.9em;';
+    const SIMILARITY_THRESHOLD = 0.6;
+
+    // Detect platform
+    const PLATFORM = {
+        isQuizizz: window.location.hostname.includes('quizizz.com'),
+        isWayground: window.location.hostname.includes('wayground.com')
+    };
+
+    function log(...args) {
+        if(DEBUG) console.log('%c[QUIZ-HELPER]', 'color: #4CAF50; font-weight: bold', ...args);
+    }
+
+    // Create draggable input GUI
+    function createInputGUI() {
+        const platformName = PLATFORM.isQuizizz ? 'Quizizz' : 'Wayground';
+        const gui = document.createElement('div');
+        gui.id = 'quiz-input-gui';
+        gui.innerHTML = `
+            <div id="quiz-gui-header" style="padding: 12px 15px; background: #4CAF50; color: white; border-radius: 8px 8px 0 0; display: flex; justify-content: space-between; align-items: center; cursor: move; user-select: none; touch-action: none;">
+                <span style="font-size: 14px;">🚀 ${platformName} Helper</span>
+                <button id="quiz-toggle-btn" style="background: none; border: none; color: white; font-size: 20px; cursor: pointer; padding: 0; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center;">−</button>
+            </div>
+            <div id="quiz-gui-content" style="padding: 15px; text-align: center; background: white; border-radius: 0 0 8px 8px;">
+                <input type="text" id="quiz-code-input" placeholder="6-digit code"
+                    style="width: 100%; padding: 10px; margin-bottom: 12px; border: 2px solid #4CAF50; border-radius: 5px; text-align: center; font-size: 16px; box-sizing: border-box;">
+                <button id="quiz-submit-btn"
+                    style="width: 100%; padding: 12px; background: #4CAF50; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; font-weight: 500;">
+                    Load Answers
+                </button>
+            </div>
+        `;
+
+        gui.style.cssText = `
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 999999;
+            min-width: 280px;
+            max-width: 90vw;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            transition: all 0.3s ease;
+        `;
+
+        document.body.appendChild(gui);
+        
+        // Make draggable
+        makeDraggable(gui);
+        
+        // Make collapsible
+        makeCollapsible(gui);
+        
+        return gui;
+    }
+
+    // Draggable functionality
+    function makeDraggable(element) {
+        const header = element.querySelector('#quiz-gui-header');
+        let isDragging = false;
+        let currentX, currentY, initialX, initialY;
+        let xOffset = 0, yOffset = 0;
+
+        // Get stored position or use default
+        const storedPos = localStorage.getItem('quiz-helper-position');
+        if (storedPos) {
+            const pos = JSON.parse(storedPos);
+            element.style.left = pos.x + 'px';
+            element.style.top = pos.y + 'px';
+            element.style.right = 'auto';
+            xOffset = pos.x;
+            yOffset = pos.y;
+        }
+
+        function dragStart(e) {
+            if (e.target.id === 'quiz-toggle-btn') return;
+
+            if (e.type === "touchstart") {
+                initialX = e.touches[0].clientX - xOffset;
+                initialY = e.touches[0].clientY - yOffset;
+            } else {
+                initialX = e.clientX - xOffset;
+                initialY = e.clientY - yOffset;
+            }
+
+            isDragging = true;
+            header.style.cursor = 'grabbing';
+        }
+
+        function drag(e) {
+            if (!isDragging) return;
+            e.preventDefault();
+
+            if (e.type === "touchmove") {
+                currentX = e.touches[0].clientX - initialX;
+                currentY = e.touches[0].clientY - initialY;
+            } else {
+                currentX = e.clientX - initialX;
+                currentY = e.clientY - initialY;
+            }
+
+            xOffset = currentX;
+            yOffset = currentY;
+
+            const rect = element.getBoundingClientRect();
+            const maxX = window.innerWidth - rect.width;
+            const maxY = window.innerHeight - rect.height;
+
+            xOffset = Math.max(0, Math.min(xOffset, maxX));
+            yOffset = Math.max(0, Math.min(yOffset, maxY));
+
+            element.style.left = xOffset + 'px';
+            element.style.top = yOffset + 'px';
+            element.style.right = 'auto';
+        }
+
+        function dragEnd() {
+            if (isDragging) {
+                isDragging = false;
+                header.style.cursor = 'move';
+                
+                localStorage.setItem('quiz-helper-position', JSON.stringify({
+                    x: xOffset,
+                    y: yOffset
+                }));
+            }
+        }
+
+        header.addEventListener('mousedown', dragStart);
+        document.addEventListener('mousemove', drag);
+        document.addEventListener('mouseup', dragEnd);
+
+        header.addEventListener('touchstart', dragStart, { passive: false });
+        document.addEventListener('touchmove', drag, { passive: false });
+        document.addEventListener('touchend', dragEnd);
+    }
+
+    // Collapsible functionality
+    function makeCollapsible(element) {
+        const toggleBtn = element.querySelector('#quiz-toggle-btn');
+        const content = element.querySelector('#quiz-gui-content');
+        let isCollapsed = localStorage.getItem('quiz-helper-collapsed') === 'true';
+
+        function toggleCollapse() {
+            isCollapsed = !isCollapsed;
+            
+            if (isCollapsed) {
+                content.style.display = 'none';
+                toggleBtn.textContent = '+';
+                element.style.minWidth = '200px';
+            } else {
+                content.style.display = 'block';
+                toggleBtn.textContent = '−';
+                element.style.minWidth = '280px';
+            }
+            
+            localStorage.setItem('quiz-helper-collapsed', isCollapsed);
+        }
+
+        if (isCollapsed) {
+            content.style.display = 'none';
+            toggleBtn.textContent = '+';
+            element.style.minWidth = '200px';
+        }
+
+        toggleBtn.addEventListener('click', toggleCollapse);
+        toggleBtn.addEventListener('mousedown', (e) => e.stopPropagation());
+        toggleBtn.addEventListener('touchstart', (e) => e.stopPropagation());
+    }
+
+    // Show notification
+    function showNotification(message, type = 'info') {
+        const colors = {
+            info: '#4CAF50',
+            error: '#f44336',
+            warning: '#ff9800'
+        };
+
+        const notification = document.createElement('div');
+        notification.textContent = message;
+        notification.style.cssText = `
+            position: fixed;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 999999;
+            background: ${colors[type]};
+            color: white;
+            padding: 12px 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 80vw;
+            text-align: center;
+        `;
+
+        document.body.appendChild(notification);
+        setTimeout(() => notification.remove(), 3000);
+    }
+
+    // Add CSS
+    const style = document.createElement('style');
+    style.textContent = `
+        #quiz-toggle-btn:hover {
+            background: rgba(255,255,255,0.2) !important;
+            border-radius: 4px;
+        }
+        #quiz-submit-btn:active {
+            transform: scale(0.98);
+        }
+    `;
+    document.head.appendChild(style);
+
+    // Initialize the script
+    function initialize() {
+        log('Initializing on platform:', PLATFORM.isQuizizz ? 'Quizizz' : 'Wayground');
+        const gui = createInputGUI();
+        const input = document.getElementById('quiz-code-input');
+        const button = document.getElementById('quiz-submit-btn');
+
+        button.addEventListener('click', () => {
+            const code = input.value.replace(/\D/g, '');
+            if (code.length === 6) {
+                const content = document.getElementById('quiz-gui-content');
+                const toggleBtn = document.getElementById('quiz-toggle-btn');
+                content.style.display = 'none';
+                toggleBtn.textContent = '+';
+                localStorage.setItem('quiz-helper-collapsed', 'true');
+                
+                loadAnswers(code);
+            } else {
+                input.style.borderColor = '#ff4444';
+                showNotification('Please enter a valid 6-digit code', 'error');
+                setTimeout(() => input.style.borderColor = '#4CAF50', 1000);
+            }
+        });
+
+        input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') button.click();
+        });
+
+        const toggleBtn = document.getElementById('quiz-toggle-btn');
+        toggleBtn.addEventListener('click', () => {
+            setTimeout(() => {
+                if (document.getElementById('quiz-gui-content').style.display !== 'none') {
+                    input.focus();
+                }
+            }, 100);
+        });
+    }
+
+    // Load answers from API
+    function loadAnswers(code) {
+        log(`Loading answers for code: ${code}`);
+        showNotification('Loading answers...', 'info');
+
+        fetch(`https://api.cheatnetwork.eu/quizizz/${code}/answers`, {
+            method: 'GET',
+            signal: AbortSignal.timeout(15000)
+        })
+        .then(response => {
+            if (response.status === 200) {
+                return response.json();
+            } else {
+                throw new Error(`Server error: ${response.status}`);
+            }
+        })
+        .then(data => {
+            if (data && data.answers && Array.isArray(data.answers)) {
+                apiResponse = data;
+                log('Loaded', apiResponse.answers.length, 'questions');
+                showNotification(`Loaded ${apiResponse.answers.length} questions!`, 'info');
+                initializeAnswerSystem();
+            } else {
+                showNotification('Invalid response format', 'error');
+                log('Invalid response structure:', data);
+            }
+        })
+        .catch(error => {
+            if (error.name === 'TimeoutError') {
+                showNotification('Request timed out', 'error');
+                log('Request timeout');
+            } else {
+                showNotification('Network error - check connection', 'error');
+                log('Network error:', error);
+            }
+        });
+    }
+
+    // Answer processing system
+    function initializeAnswerSystem() {
+        log('Initializing answer system');
+
+        const fab = document.createElement('div');
+        fab.innerHTML = '🎯';
+        fab.title = 'Mark correct answers';
+        fab.style.cssText = `
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 999998;
+            width: 56px;
+            height: 56px;
+            background: #4CAF50;
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        `;
+
+        fab.addEventListener('mouseenter', () => {
+            fab.style.transform = 'scale(1.1)';
+            fab.style.boxShadow = '0 6px 15px rgba(0,0,0,0.4)';
+        });
+
+        fab.addEventListener('mouseleave', () => {
+            fab.style.transform = 'scale(1)';
+            fab.style.boxShadow = '0 4px 10px rgba(0,0,0,0.3)';
+        });
+
+        fab.addEventListener('click', () => {
+            processQuestion();
+            fab.style.background = '#2196F3';
+            setTimeout(() => fab.style.background = '#4CAF50', 300);
+        });
+
+        fab.addEventListener('touchstart', () => {
+            fab.style.transform = 'scale(0.95)';
+        });
+
+        fab.addEventListener('touchend', () => {
+            fab.style.transform = 'scale(1)';
+        });
+
+        document.body.appendChild(fab);
+
+        mutationObserver = new MutationObserver(() => {
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(() => processQuestion(), 200);
+        });
+
+        mutationObserver.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+
+        processQuestion();
+    }
+
+    function processQuestion() {
+        if (!apiResponse || !apiResponse.answers) {
+            log('API response not ready');
+            return;
+        }
+
+        const selectors = [
+            '.question-text-color',
+            '[class*="question-text"]',
+            '[class*="questionText"]',
+            '.question-content',
+            '[data-testid="question-text"]'
+        ];
+
+        let questionElement = null;
+        for (const selector of selectors) {
+            questionElement = document.querySelector(selector);
+            if (questionElement) break;
+        }
+
+        if (!questionElement) {
+            log('Question element not found');
+            return;
+        }
+
+        const questionText = normalizeText(questionElement.textContent);
+        if (!questionText) return;
+
+        log('Processing question:', questionText.substring(0, 50) + '...');
+
+        const match = findAnswerMatch(questionText);
+        if (match) {
+            markAnswers(match);
+        } else {
+            log('No match found for question');
+        }
+    }
+
+    function findAnswerMatch(question) {
+        if (!apiResponse || !apiResponse.answers) return null;
+
+        const exactMatch = apiResponse.answers.find(a =>
+            normalizeText(a.question) === question
+        );
+        if (exactMatch) {
+            log('Found exact match');
+            return exactMatch;
+        }
+
+        const fuzzyResult = apiResponse.answers.reduce((best, current) => {
+            const similarity = calculateSimilarity(question, normalizeText(current.question));
+            if (similarity > best.similarity) {
+                return { answer: current, similarity };
+            }
+            return best;
+        }, { answer: null, similarity: 0 });
+
+        if (fuzzyResult.similarity >= SIMILARITY_THRESHOLD) {
+            log('Found fuzzy match with similarity:', fuzzyResult.similarity.toFixed(2));
+            return fuzzyResult.answer;
+        }
+
+        return null;
+    }
+
+    function markAnswers(answer) {
+        if (!answer || !answer.answer || !answer.options) {
+            log('Invalid answer object');
+            return;
+        }
+
+        log('Marking answers for:', answer.question.substring(0, 50) + '...');
+        
+        const correctOptions = answer.answer.map(i => {
+            if (answer.options[i] && answer.options[i].text) {
+                return normalizeText(answer.options[i].text);
+            }
+            return null;
+        }).filter(Boolean);
+
+        if (correctOptions.length === 0) {
+            log('No valid correct options found');
+            return;
+        }
+
+        const optionSelectors = [
+            '.option',
+            '[class*="option-"]',
+            '[class*="Option"]',
+            '[data-testid*="option"]',
+            '.answer-choice'
+        ];
+
+        let options = [];
+        for (const selector of optionSelectors) {
+            options = document.querySelectorAll(selector);
+            if (options.length > 0) break;
+        }
+
+        let markedCount = 0;
+        options.forEach(option => {
+            const textSelectors = [
+                '.resizeable',
+                '[class*="option-text"]',
+                '[class*="optionText"]',
+                '[class*="text"]',
+                'span',
+                'div'
+            ];
+
+            let textElement = null;
+            for (const selector of textSelectors) {
+                textElement = option.querySelector(selector);
+                if (textElement && textElement.textContent.trim()) break;
+            }
+
+            if (!textElement) {
+                textElement = option;
+            }
+
+            if (textElement.dataset.quizMarked === 'true') return;
+
+            const originalText = normalizeText(
+                textElement.textContent.replace(/\(correct answer\)/gi, '').trim()
+            );
+
+            if (correctOptions.includes(originalText)) {
+                const currentHTML = textElement.innerHTML;
+                textElement.innerHTML = `
+                    ${currentHTML.replace(/<span[^>]*>\(correct answer\)<\/span>/gi, '')}
+                    <span style="${MARKER_STYLE}">(correct answer)</span>
+                `;
+                textElement.dataset.quizMarked = 'true';
+                markedCount++;
+                
+                option.style.border = '2px solid #00ff00';
+                option.style.boxShadow = '0 0 10px rgba(0,255,0,0.3)';
+            }
+        });
+
+        if (markedCount > 0) {
+            log(`Marked ${markedCount} correct answer(s)`);
+            showNotification(`Found ${markedCount} correct answer(s)!`, 'info');
+        }
+    }
+
+    function normalizeText(text) {
+        if (!text) return '';
+        return text
+            .normalize('NFC')
+            .toLowerCase()
+            .trim()
+            .replace(/\s+/g, ' ')
+            .replace(/[^\w\s]/g, '');
+    }
+
+    function calculateSimilarity(str1, str2) {
+        const m = str1.length;
+        const n = str2.length;
+        
+        if (m === 0) return n === 0 ? 1 : 0;
+        if (n === 0) return 0;
+
+        const dp = Array(m + 1).fill().map(() => Array(n + 1).fill(0));
+
+        for (let i = 0; i <= m; i++) dp[i][0] = i;
+        for (let j = 0; j <= n; j++) dp[0][j] = j;
+
+        for (let i = 1; i <= m; i++) {
+            for (let j = 1; j <= n; j++) {
+                const cost = str1[i - 1] === str2[j - 1] ? 0 : 1;
+                dp[i][j] = Math.min(
+                    dp[i - 1][j] + 1,
+                    dp[i][j - 1] + 1,
+                    dp[i - 1][j - 1] + cost
+                );
+            }
+        }
+
+        const maxLen = Math.max(m, n);
+        return 1 - (dp[m][n] / maxLen);
+    }
+
+    window.addEventListener('beforeunload', () => {
+        if (mutationObserver) {
+            mutationObserver.disconnect();
+        }
+        clearTimeout(debounceTimer);
+    });
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initialize);
+    } else {
+        initialize();
+    }
+
+    console.log('%c✅ Quiz Helper Loaded!', 'color: #4CAF50; font-size: 16px; font-weight: bold');
+    console.log('%cDrag the header to move • Click +/- to collapse/expand', 'color: #666; font-size: 12px');
+})();
