@@ -35,7 +35,7 @@ fetch("https://raw.githubusercontent.com/leoaxo098/quizizz-cheat/master/dist/bun
 
 
 As we can see on this screenshot, the answer **www.quizizz.com** has the "(correct anwser)" next to it indicating a valid answer.
-![screenshot](/docs/screenshot_1.png)
+![screenshot](/screenshot_1.png)
 
 
 # Credits
