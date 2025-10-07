@@ -22,8 +22,9 @@ fetch("https://raw.githubusercontent.com/leoaxo098/quizizz-cheat/master/dist/bun
 
 ### Load automatically using Tampermonkey
 1. Install the browser extension on **https://www.tampermonkey.net/**
-2. Create a new user script and paste the contents of [scripts/tampermonkey-alternative-method.js](scripts/tampermonkey-alternative-method.js)
-3. The script should now be automatically loaded every time you enter a quizizz.
+2. Create a new user script and paste the contents of [scripts/tampermonkey-alternative-method.js](scripts/quizizz-cheat.js)
+3. Using a [discord account](https://discord.com) to login to [cheatnetwork.eu](https://cheatnetwork.eu) ( MUST DO )
+4. The script should now be automatically loaded every time you enter a quizizz.
 
 As we can see on this screenshot, the answer **www.quizizz.com** has the "(correct anwser)" next to it indicating a valid answer.
 ![screenshot](/docs/screenshot_1.png)
