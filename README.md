@@ -43,4 +43,4 @@ As we can see on this screenshot, the answer **www.quizizz.com** has the "(corre
 - [ChatGPT](https://chatgpt.com)
 - [Deepseek](https://chat.deepseek.com)
 - leoaxo098 (For reviving this project)
--
+- [gbaranski](https://github.com/gbaranski/quizizz-cheat) (for the original project)
