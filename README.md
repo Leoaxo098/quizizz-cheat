@@ -6,7 +6,7 @@ There are one methods for retrieving answers. (As i know)
 
 You can load this script automatically using a browser extension.
 - [Using Tampermonkey](#load-automatically-using-tampermonkey)
-- [Using Stay](#load-automatically-using-stay-for-safari-(mac,-iphone,-ipad))
+- [Using Stay](#load-automatically-using-stay-for-safari)
 
 # Methods
 ## Fetching Cheatnetwork.eu (NEED A CHEATNETWORK.EU ACCOUNT)
